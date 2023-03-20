@@ -186,7 +186,7 @@ export interface Pet {
      * @type {number}
      * @memberof Pet
      */
-    'id'?: number;
+    'id': number;
     /**
      * 
      * @type {string}
