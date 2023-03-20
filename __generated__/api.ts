@@ -300,6 +300,12 @@ export interface User {
      * @memberof User
      */
     'userStatus'?: number;
+    /**
+     * 
+     * @type {number}
+     * @memberof User
+     */
+    'updated_at'?: number;
 }
 
 /**
